@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "bootstrap_templates"
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "'Ubuntu Mono', 'Courier New', monospace",
+		"editor.fontSize": 24,
+		"editor.wordWrap": "on",
+		"workbench.colorTheme": "One Dark Pro Vivid",
+		"editor.fontLigatures": false,
+		"editor.tabSize": 4,
+		"terminal.integrated.fontWeight": "300"
+	}
+}
